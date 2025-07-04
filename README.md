@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Parisha</h1>
 <h3 align="center">“AI Engineer | Automation Enthusiast | Creator of OneStop AI”</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshaparisha" alt="harshaparisha" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshaparisha&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="harshaparisha" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **OneStop AI**
 
