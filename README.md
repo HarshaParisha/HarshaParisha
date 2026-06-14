@@ -25,7 +25,7 @@
 
 ### Projects
 
-| Project | One-liner |
+| Project |           |
 |---|---|
 | **Guild100** | 100-day build-in-public series, one AI tool a day |
 | **Pulse** | Automated AI/tech news digest — Next.js, Supabase, Gemini 2.5 |
