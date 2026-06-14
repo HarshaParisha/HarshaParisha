@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Parisha</h1>
-<h3 align="center">AI/ML Engineer | Founder @ OneStop AI & Promto AI | Building AI-native products</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Final-Year+B.Tech+Student;Founder+%40+OneStop+AI;Founder+%40+Promto+AI;Building+Guild100+%E2%80%94+100+Days%2C+100+AI+Tools;Shipping+Pulse%2C+HireOS%2C+Pitch+Drop+%26+more" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://harshaparisha.in" target="_blank">🌐 Portfolio</a> •
@@ -15,10 +20,25 @@
 - 🏗️ Founder of **[OneStop AI](https://harshaparisha.in)** — an AI tools aggregator built for Indian users
 - 📚 Building **Promto AI** — a B2B EdTech initiative bringing hands-on AI skills training to schools & colleges across Telangana
 - 🤝 Member of the **Anthropic Claude Partner Network (CPN)**
-- 🧪 Currently shipping: **Pulse** (an automated AI/tech news digest tool) and **Guild100** — a "100 Days, 100 AI Tools" build-in-public project
-- 🌱 Learning: Generative AI, agentic workflows, and scalable AI/ML infrastructure
-- 💬 Ask me about: AI Agents, Prompt Engineering, Product Design, Automation, MLOps
-- ⚡ Fun fact: I automate what I can, so I can focus on what matters.
+- 🧪 Currently shipping: **Pulse** (AI/tech news digest) and **Guild100** — a "100 Days, 100 AI Tools" build-in-public project
+- 🏏 When I'm not coding: IPL fanatic, retro gaming nostalgia, building Pitch Drop (my fantasy auction app)
+
+---
+
+### 🤖 My AI Toolkit
+
+<p align="left">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF66CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+<img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+> Daily driver: Claude for building & writing → Cursor for shipping → Perplexity for research.
 
 ---
 
@@ -26,13 +46,23 @@
 
 | Project | Description |
 |---|---|
-| 🌐 **[Guild100](https://guild100.vercel.app)** | A "100 Days, 100 AI Tools" discovery project with daily content on AI tools |
+| 🌐 **[Guild100](https://guild100.vercel.app)** | A "100 Days, 100 AI Tools" discovery project with daily content |
 | 📰 **Pulse** | Automated AI/tech news digest — Next.js, Supabase, Gemini 2.5 Flash, Resend |
 | 💼 **HireOS** | Local-first, AI-powered career OS — Tauri v2, React, SQLite, LM Studio |
-| 🏏 **Pitch Drop** | Real-time IPL fantasy auction platform — Supabase, real-time bidding engine |
-| 💊 **MedVerify (DrugTrust AI)** | Medicine authenticity detection using EfficientNet-B3 + EasyOCR + local LLM |
+| 🏏 **Pitch Drop** | Real-time IPL fantasy auction platform — Supabase, real-time bidding |
+| 💊 **MedVerify (DrugTrust AI)** | Medicine authenticity detection — EfficientNet-B3 + EasyOCR + local LLM |
 | 🧠 **Nexus AI** | Personal command center with RAG, Calendar sync, Kanban & WhatsApp digests |
 | 📋 **HireFlow** | AI hiring assistant — profile parsing, AI outreach & application tracking |
+
+---
+
+### 🎮 Off-Duty Mode
+
+<p align="left">
+<img src="https://img.shields.io/badge/IPL-Fantasy_Auctions-1B2A4A?style=for-the-badge&logo=cricbuzz&logoColor=white" />
+<img src="https://img.shields.io/badge/Gaming-Retro_Nostalgia-6E40C9?style=for-the-badge&logo=gamejolt&logoColor=white" />
+<img src="https://img.shields.io/badge/Currently-Building_in_Public-success?style=for-the-badge" />
+</p>
 
 ---
 
@@ -77,4 +107,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaparisha&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="50%" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshaparisha/harshaparisha/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center"><i>⭐ From <a href="https://harshaparisha.in">harshaparisha.in</a> — building AI products one ship at a time.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshaparisha&style=flat-square&color=58A6FF" alt="profile views" />
+</p>
