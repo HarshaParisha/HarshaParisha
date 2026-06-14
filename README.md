@@ -25,23 +25,15 @@
 
 ---
 
-### 🏢 Ventures
+### 🛠️ Projects
 
-| Venture | What it is |
-|---|---|
-| **OneStop AI** | AI tools aggregator helping Indian users discover and use AI tools effectively |
-| **Promto AI** | B2B EdTech — hands-on AI skills training for schools & colleges across Telangana, via TASK and T-Hub networks |
-| **Guild100** | 100-day build-in-public series covering one AI tool a day with content for LinkedIn |
-
----
-
-### 🧪 Currently Building
-
-| Project | Status | Stack |
-|---|---|---|
-| **Pulse** | In development | Next.js, Supabase, Gemini 2.5 Flash, Resend |
-| **Guild100** | Live | Next.js, Vercel |
-| **HireOS** | Iterating | Tauri v2, React, SQLite, LM Studio |
+- 🌐 **[Guild100](https://guild100.vercel.app)** — 100-day build-in-public series, one AI tool a day
+- 📰 **Pulse** — automated AI/tech news digest (Next.js, Supabase, Gemini 2.5 Flash, Resend)
+- 💼 **HireOS** — local-first, AI-powered career OS (Tauri v2, React, SQLite, LM Studio)
+- 🏏 **Pitch Drop** — real-time IPL fantasy auction platform (Supabase, real-time bidding)
+- 💊 **MedVerify (DrugTrust AI)** — medicine authenticity detection (EfficientNet-B3, EasyOCR, local LLM)
+- 🧠 **Nexus AI** — personal command center with RAG, calendar sync, Kanban & WhatsApp digests
+- 📋 **HireFlow** — AI hiring assistant for profile parsing, outreach & application tracking
 
 ---
 
@@ -62,20 +54,6 @@
 
 ---
 
-### 🛠️ Featured Projects
-
-| Project | Description |
-|---|---|
-| 🌐 **[Guild100](https://guild100.vercel.app)** | A "100 Days, 100 AI Tools" discovery project with daily content |
-| 📰 **Pulse** | Automated AI/tech news digest — Next.js, Supabase, Gemini 2.5 Flash, Resend |
-| 💼 **HireOS** | Local-first, AI-powered career OS — Tauri v2, React, SQLite, LM Studio |
-| 🏏 **Pitch Drop** | Real-time IPL fantasy auction platform — Supabase, real-time bidding |
-| 💊 **MedVerify (DrugTrust AI)** | Medicine authenticity detection — EfficientNet-B3 + EasyOCR + local LLM |
-| 🧠 **Nexus AI** | Personal command center with RAG, Calendar sync, Kanban & WhatsApp digests |
-| 📋 **HireFlow** | AI hiring assistant — profile parsing, AI outreach & application tracking |
-
----
-
 ### 🕹️ Retro Corner
 
 <p align="left">
@@ -83,6 +61,7 @@
 <img src="https://img.shields.io/badge/Prince_of_Persia-D4AF37?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Need_for_Speed-000000?style=for-the-badge&logo=ea&logoColor=white" />
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counterstrike&logoColor=white" />
+<img src="https://img.shields.io/badge/Mini_Militia-7CB342?style=for-the-badge&logoColor=white" />
 </p>
 
 > Old-school games, new-school builds. 90s/2000s nostalgia runs deep.
@@ -122,26 +101,26 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaparisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="harshaparisha stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaparisha&theme=tokyonight&hide_border=true" alt="harshaparisha streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaParisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="harshaparisha stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaParisha&theme=tokyonight&hide_border=true" alt="harshaparisha streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaparisha&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaParisha&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="50%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshaparisha&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshaParisha&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshaparisha/harshaparisha/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HarshaParisha/HarshaParisha/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center"><i>⭐ From <a href="https://harshaparisha.in">harshaparisha.in</a> — building AI products one ship at a time.</i></p>
