@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Final-Year+B.Tech+Student;Founder+%40+OneStop+AI;Founder+%40+Promto+AI;Building+Guild100+%E2%80%94+100+Days%2C+100+AI+Tools;Shipping+Pulse%2C+HireOS%2C+Pitch+Drop+%26+more" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Building+AI-Native+Products;Founder+%40+OneStop+AI+%26+Promto+AI;Shipping+Pulse%2C+HireOS%2C+Pitch+Drop+%26+More;Always+Building+in+Public" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,12 +16,32 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **B.Tech AI/ML** student at Anurag University, Hyderabad (Class of 2026)
 - 🏗️ Founder of **[OneStop AI](https://harshaparisha.in)** — an AI tools aggregator built for Indian users
 - 📚 Building **Promto AI** — a B2B EdTech initiative bringing hands-on AI skills training to schools & colleges across Telangana
 - 🤝 Member of the **Anthropic Claude Partner Network (CPN)**
 - 🧪 Currently shipping: **Pulse** (AI/tech news digest) and **Guild100** — a "100 Days, 100 AI Tools" build-in-public project
-- 🏏 When I'm not coding: IPL fanatic, retro gaming nostalgia, building Pitch Drop (my fantasy auction app)
+- 🎓 AI/ML background, Anurag University, Hyderabad (Class of 2026)
+- 🛠️ Working style: full-stack products built with AI-assisted coding workflows — phased builds, scaffolds first, live integrations later
+
+---
+
+### 🏢 Ventures
+
+| Venture | What it is |
+|---|---|
+| **OneStop AI** | AI tools aggregator helping Indian users discover and use AI tools effectively |
+| **Promto AI** | B2B EdTech — hands-on AI skills training for schools & colleges across Telangana, via TASK and T-Hub networks |
+| **Guild100** | 100-day build-in-public series covering one AI tool a day with content for LinkedIn |
+
+---
+
+### 🧪 Currently Building
+
+| Project | Status | Stack |
+|---|---|---|
+| **Pulse** | In development | Next.js, Supabase, Gemini 2.5 Flash, Resend |
+| **Guild100** | Live | Next.js, Vercel |
+| **HireOS** | Iterating | Tauri v2, React, SQLite, LM Studio |
 
 ---
 
@@ -56,13 +76,16 @@
 
 ---
 
-### 🎮 Off-Duty Mode
+### 🕹️ Retro Corner
 
 <p align="left">
-<img src="https://img.shields.io/badge/IPL-Fantasy_Auctions-1B2A4A?style=for-the-badge&logo=cricbuzz&logoColor=white" />
-<img src="https://img.shields.io/badge/Gaming-Retro_Nostalgia-6E40C9?style=for-the-badge&logo=gamejolt&logoColor=white" />
-<img src="https://img.shields.io/badge/Currently-Building_in_Public-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GTA_Vice_City-FF66B2?style=for-the-badge&logo=rockstargames&logoColor=white" />
+<img src="https://img.shields.io/badge/Prince_of_Persia-D4AF37?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Need_for_Speed-000000?style=for-the-badge&logo=ea&logoColor=white" />
+<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counterstrike&logoColor=white" />
 </p>
+
+> Old-school games, new-school builds. 90s/2000s nostalgia runs deep.
 
 ---
 
@@ -109,15 +132,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshaparisha&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshaparisha/harshaparisha/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
 <p align="center"><i>⭐ From <a href="https://harshaparisha.in">harshaparisha.in</a> — building AI products one ship at a time.</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshaparisha&style=flat-square&color=58A6FF" alt="profile views" />
-</p>
