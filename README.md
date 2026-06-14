@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Generative AI, advanced ML frameworks, cloud automation**  
 - 👯 I’m looking to collaborate on **AI agents, Automation, Web & ML projects**  
 - 🤝 I’m looking for help with **Scaling AI/ML solutions and vector databases**  
-- 👨‍💻 All of my projects are available at [harshaparisha.netlify.app](harshaparisha.in)  
+- 👨‍💻 All of my projects are available at [harshaparisha.in](harshaparisha.in)  
 - 📝 I regularly write articles on **AI, automation, and trending tech solutions—explained from a student’s perspective to make complex topics simple, practical, and career-relevant.**  
 - 💬 Ask me about **AI Agents, Prompt Engineering, Automation, ML Ops**  
 - 📫 How to reach me: **harshaparisha@gmail.com**  
