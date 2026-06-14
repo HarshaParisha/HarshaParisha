@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Generative+AI+%26+LLM+Apps;Founder+%40+OneStop+AI+%26+Promto+AI;Building+in+Public" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Generative+AI+%26+LLM+Apps;Founder+of+OneStop+AI+and+Promto+AI;Building+in+Public" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,47 +16,44 @@
 
 ### About
 
-- Founder of **OneStop AI** — AI tools aggregator for Indian users
-- Building **Promto AI** — AI skills training for schools & colleges across Telangana
-- Member of the **Anthropic Claude Partner Network**
-- Based in Hyderabad, India
+Founder of OneStop AI, an AI tools aggregator built for Indian users. Also building Promto AI, which brings hands on AI skills training to schools and colleges across Telangana. Member of the Anthropic Claude Partner Network. Based in Hyderabad, India.
 
 ---
 
 ### Projects
 
-| Project |           |
+| Project | What it does |
 |---|---|
-| **Guild100** | 100-day build-in-public series, one AI tool a day |
-| **Pulse** | Automated AI/tech news digest — Next.js, Supabase, Gemini 2.5 |
-| **HireOS** | Local-first AI career assistant — Tauri, React, local LLM |
-| **Pitch Drop** | Real-time IPL fantasy auction platform — Supabase |
-| **MedVerify** | Medicine authenticity detection — EfficientNet-B3, OCR, LLM |
-| **Nexus AI** | Personal command center — RAG, calendar sync, Kanban |
-| **HireFlow** | AI hiring assistant — parsing, outreach, tracking |
+| Guild100 | A 100 day build in public series covering one AI tool a day |
+| Pulse | An automated AI and tech news digest built with Next.js, Supabase and Gemini |
+| HireOS | A local first AI career assistant built with Tauri, React and a local LLM |
+| Pitch Drop | A real time IPL fantasy auction platform built with Supabase |
+| MedVerify | A medicine authenticity checker using EfficientNet, OCR and an LLM |
+| Nexus AI | A personal command center with RAG, calendar sync and Kanban |
+| HireFlow | An AI hiring assistant for parsing profiles and tracking applications |
 
 ---
 
-### LLMs & AI APIs
+### LLMs and AI APIs
 <p align="left">
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
 
-### Agents, RAG & Prompting
+### Agents, RAG and Prompting
 <p align="left">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_DBs-Pinecone%2FChroma%2FSupabase-4B8BBE?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Databases-4B8BBE?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-D97757?style=flat-square&logoColor=white" />
 </p>
 
-### Full Stack & Product
+### Full Stack and Product
 <p align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -66,7 +63,7 @@
 <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
 </p>
 
-### Backend, Data & ML
+### Backend, Data and ML
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -77,7 +74,7 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Infra & Deploy
+### Infra and Deploy
 <p align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -93,6 +90,17 @@
 <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
 <img src="https://img.shields.io/badge/Lovable-FF66CC?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
+</p>
+
+---
+
+### Games I grew up on
+<p align="left">
+<img src="https://img.shields.io/badge/GTA_Vice_City-FF66B2?style=flat-square&logo=rockstargames&logoColor=white" />
+<img src="https://img.shields.io/badge/Prince_of_Persia-D4AF37?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Need_for_Speed-000000?style=flat-square&logo=ea&logoColor=white" />
+<img src="https://img.shields.io/badge/Counter_Strike-000000?style=flat-square&logo=counterstrike&logoColor=white" />
+<img src="https://img.shields.io/badge/Mini_Militia-7CB342?style=flat-square&logoColor=white" />
 </p>
 
 ---
