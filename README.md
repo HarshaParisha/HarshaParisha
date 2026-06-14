@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Generative+AI+%26+LLM+Apps;Founder+of+OneStop+AI+and+Promto+AI;Building+in+Public" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Generative+AI+and+LLM+Apps;Founder+of+OneStop+AI+and+Promto+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,11 @@
 
 ### About
 
-Founder of OneStop AI, an AI tools aggregator built for Indian users. Also building Promto AI, which brings hands on AI skills training to schools and colleges across Telangana. Member of the Anthropic Claude Partner Network. Based in Hyderabad, India.
+- Founder of OneStop AI, an AI tools aggregator built for Indian users
+- Building Promto AI, which brings hands on AI skills training to schools and colleges across Telangana
+- Member of the Anthropic Claude Partner Network
+- Based in Hyderabad, India
+- Focused on building full stack products powered by AI
 
 ---
 
@@ -85,6 +89,8 @@ Founder of OneStop AI, an AI tools aggregator built for Indian users. Also build
 
 ### AI Dev Tools
 <p align="left">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
