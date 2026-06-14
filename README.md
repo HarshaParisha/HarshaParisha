@@ -1,22 +1,38 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Parisha</h1>
-<h3 align="center">AI Engineer | Automation Enthusiast | Creator of OneStop AI</h3>
+<h3 align="center">AI/ML Engineer | Founder @ OneStop AI & Promto AI | Building AI-native products</h3>
+
+<p align="center">
+  <a href="https://harshaparisha.in" target="_blank">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/harshavardhan-parisha" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:harshaparisha@gmail.com">📫 Email</a>
+</p>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshaparisha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🚀 About Me
+
+- 🎓 Final-year **B.Tech AI/ML** student at Anurag University, Hyderabad (Class of 2026)
+- 🏗️ Founder of **[OneStop AI](https://harshaparisha.in)** — an AI tools aggregator built for Indian users
+- 📚 Building **Promto AI** — a B2B EdTech initiative bringing hands-on AI skills training to schools & colleges across Telangana
+- 🤝 Member of the **Anthropic Claude Partner Network (CPN)**
+- 🧪 Currently shipping: **Pulse** (an automated AI/tech news digest tool) and **Guild100** — a "100 Days, 100 AI Tools" build-in-public project
+- 🌱 Learning: Generative AI, agentic workflows, and scalable AI/ML infrastructure
+- 💬 Ask me about: AI Agents, Prompt Engineering, Product Design, Automation, MLOps
+- ⚡ Fun fact: I automate what I can, so I can focus on what matters.
 
 ---
 
-- 🔭 I’m currently working on **OneStop AI**  
-- 🌱 I’m currently learning **Generative AI, advanced ML frameworks, cloud automation**  
-- 👯 I’m looking to collaborate on **AI agents, Automation, Web & ML projects**  
-- 🤝 I’m looking for help with **Scaling AI/ML solutions and vector databases**  
-- 👨‍💻 All of my projects are available at [harshaparisha.in](harshaparisha.in)  
-- 📝 I regularly write articles on **AI, automation, and trending tech solutions—explained from a student’s perspective to make complex topics simple, practical, and career-relevant.**  
-- 💬 Ask me about **AI Agents, Prompt Engineering, Automation, ML Ops**  
-- 📫 How to reach me: **harshaparisha@gmail.com**  
-- 📄 Know about my experiences: [My Portfolio](https://harshaparisha.netlify.app)  
-- ⚡ Fun fact: **I automate what I can, so I can focus on what matters.**
+### 🛠️ Featured Projects
+
+| Project | Description |
+|---|---|
+| 🌐 **[Guild100](https://guild100.vercel.app)** | A "100 Days, 100 AI Tools" discovery project with daily content on AI tools |
+| 📰 **Pulse** | Automated AI/tech news digest — Next.js, Supabase, Gemini 2.5 Flash, Resend |
+| 💼 **HireOS** | Local-first, AI-powered career OS — Tauri v2, React, SQLite, LM Studio |
+| 🏏 **Pitch Drop** | Real-time IPL fantasy auction platform — Supabase, real-time bidding engine |
+| 💊 **MedVerify (DrugTrust AI)** | Medicine authenticity detection using EfficientNet-B3 + EasyOCR + local LLM |
+| 🧠 **Nexus AI** | Personal command center with RAG, Calendar sync, Kanban & WhatsApp digests |
+| 📋 **HireFlow** | AI hiring assistant — profile parsing, AI outreach & application tracking |
 
 ---
 
@@ -30,48 +46,35 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧰 Languages & Tools
 <p align="left">
-<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
-<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaparisha&show_icons=true&locale=en&layout=compact" alt="harshaparisha" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshaparisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="harshaparisha stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaparisha&theme=tokyonight&hide_border=true" alt="harshaparisha streak" width="49%" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshaparisha&show_icons=true&locale=en" alt="harshaparisha" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaparisha&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="50%" />
 </p>
+
+<p align="center"><i>⭐ From <a href="https://harshaparisha.in">harshaparisha.in</a> — building AI products one ship at a time.</i></p>
